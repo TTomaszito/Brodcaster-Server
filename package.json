@@ -1,0 +1,17 @@
+{
+  "name": "brodcaster-server",
+  "version": "1.0.0",
+  "description": "server for brodcaster app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ttomaszito",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "ngrok": "^3.1.1",
+    "twilio": "^3.31.0"
+  }
+}
